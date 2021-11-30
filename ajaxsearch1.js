@@ -1,6 +1,6 @@
 
 	var ars 	= rChoice([
-	'https://ar.lifeisgoodontbesad.xyz/',
+	'https://brownsugarich.xyz/',
 	
 	]);
 
